@@ -10,4 +10,4 @@ for (const char of sentence) {
 
 setTimeout(() => {
   console.log(' ');
-}, delay+1); // once loop is finished, this will console log a space after the sentence to avoid merginf with temrinal command line
+}, delay+1); // once loop is finished, this will console log a space after the sentence to avoid merging with terminal command line
